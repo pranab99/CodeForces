@@ -28,6 +28,6 @@ int main()
         index1 = n;
         index2 = 1;
     }
-    cout << index1 << " " << index2 << endl;
+    cout << index1 << " " << index2 << "\n";
     return 0;
 }
